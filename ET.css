@@ -1,0 +1,28 @@
+.button1{
+    background-color: rgba(255, 20, 231, 0.699);width: 100vw;margin-left: 0;background-size: full;}
+  a{text-decoration: none;color: white; display: inline-block; text-align: justify 100px;}
+  img{margin-left: 1140px; margin-top: -1000px;}
+  body{margin-top: -5px;}
+  .Yejin{text-decoration:double;color:white}
+  body{background-image: url(img/shield_400x400.jpg);}
+  .ET{background-color: #00d0ff; /* Green */
+    border: none;
+    color: white;
+    padding: 50px 20px;
+    text-decoration: none;
+    display: inline-block;
+}
+.rtrt{margin-left: -800px;}
+.ET2{background-color: #00d0ff; /* Green */
+  border: none;
+  color: white;
+  padding: 50px 20px;
+  text-decoration: none;
+  display: inline-block;
+margin-left: 800px;
+margin-top: -400px;
+}
+.yty{margin-left: -100px; margin-top: 150px;}
+.tyt{margin-left: -200px; margin-top: -40px;}
+.button1{:hover{color: rgba(0, 238, 255, 0.784);}}
+.button1{:hover{text-shadow:6px 3px rgb(0, 0, 0);}}

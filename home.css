@@ -1,0 +1,13 @@
+.button1{
+  background-color: rgba(255, 20, 231, 0.699);width: 100vw;margin-left: 0;background-size: full;}
+a{text-decoration: none;color: white; display: inline-block; text-align: justify 100px;}
+body{background-image: url(img/DOSNOVENTA_d7e6e71d-88fb-4ea8-aeb5-4037773b7cf8.webp), url(img/download.png);}
+
+ .button1{:hover{text-shadow:6px 3px rgb(0, 0, 0);}}
+img{margin-left: 1140px; margin-top: -1000px;}
+  body{margin-top: -5px;}
+  .Yejin{text-decoration:double;color:rgb(255, 255, 255); text-align: center; font-size: 50px;}   
+  .aaaa{margin-left: -200px; margin-top: 200px;}
+  .aaa{margin-left: -900px; margin-top: -100px;}
+  .rty{margin-top: 100px; background-color: black; margin-left: -550px;}
+  .button1{:hover{color: rgba(0, 238, 255, 0.784);}}
