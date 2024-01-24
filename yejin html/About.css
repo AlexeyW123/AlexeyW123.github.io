@@ -1,0 +1,24 @@
+.A {
+    background-color: #ff00ee9f; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 250px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+  }
+    a{text-decoration: none;color: white;}
+  body{background-image: url(img/download.png);}
+ 
+  .hobby{text-align: right;margin-top: -60px;}
+  h1{color: white;}
+  .home{margin-left: 560px; margin-top: -101px;}
+  h3{color: white;}
+
+ .bmx{margin-left: -100px; margin-top: 50px}
+ .ART{margin-top: 150px; background-color: black;}
+ .main{display: flex; flex-direction: row;}
+ .p2{display: flex; flex-direction: column;}
+ .home{margin-top: -110px;}
+ .p2{margin-right: -300px; margin-left: -400px;}
+ .about{margin-top: 100px;}
